@@ -1,2 +1,2 @@
-# circuitos
-Arquivos da rubrica de sugestões culturais Circuitos
+# Circuitos
+Arquivo da rubrica de sugestões culturais Circuitos
